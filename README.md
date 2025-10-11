@@ -1,4 +1,4 @@
-# Anirbanbasu Tap
+# Homebrew Tap for `anirbanbasu`
 
 ## How do I install these formulae?
 
