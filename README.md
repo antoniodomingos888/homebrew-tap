@@ -1,4 +1,10 @@
-# Homebrew Tap for `anirbanbasu`
+# Homebrew Tap
+
+This tap contains formulae that can be installed on macOS and Linux through [the Homebrew package manager](https://brew.sh/).
+
+## Available formulae
+
+- `ollama-downloader`: A library and Hugging Face model downloader for Ollama. See [project on Github](https://github.com/anirbanbasu/ollama-downloader).
 
 ## How do I install these formulae?
 
