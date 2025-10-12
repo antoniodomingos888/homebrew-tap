@@ -160,7 +160,10 @@ class OllamaDownloader < Formula
   end
 
   test do
-    output = shell_output("#{bin}/ollama-downloader --help")
+    output = shell_output("#{bin}/ollama-downloader version")
+    puts output
     assert_match(/\A(?!.*error).*$/i, output)
+    # A three componen (i.e., major.minor.patch) version number with optional release information segment
+    assert_match(/\b\d+\.\d+\.\d+(?:\.(?:post|dev|rc|a|b)\d+)?\b/, output)
   end
 end
